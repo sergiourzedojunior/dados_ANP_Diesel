@@ -1,6 +1,12 @@
 # dados_ANP_Diesel
 
-Este projeto contém dados abertos da ANP - Agência Nacional de Petróleo. O recorte é de consumo de diesel e pretende apenas demonstrar alternativas analíticas e geração de relatório em HTML como "profile" descritivo utulizando a biblioteca Pandas para modelagem dos dados.
+Este projeto contém dados abertos da ANP - Agência Nacional de Petróleo. O recorte é de consumo de diesel e pretende apenas demonstrar alternativas analíticas e geração de relatório em HTML como "profile" descritivo utilizando a biblioteca Pandas para modelagem dos dados. 
+
+Steps analíticos:
+ 1. estatísticas descritivas
+ 2. segmentação por distribuição (histogram, quarters, outliers)
+ 3. indicador de share of wallet, MoM, YoY, etc...
+ 4. análise de sazonalidade com média móvel
 
 ##  **Languages and tools:**
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
